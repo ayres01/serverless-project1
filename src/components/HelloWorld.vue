@@ -26,7 +26,7 @@ const MAX_IMAGE_SIZE = 1000000
 /* ENTER YOUR ENDPOINT HERE
    FILES UPLOADED TO MY ENDPOINT ARE AUTOMATICALLY DELETED EVERY FEW HOURS */
 
-const API_ENDPOINT = ' https://adzqusfoof.execute-api.eu-north-1.amazonaws.com/default/funmiserverlesslambda'
+const API_ENDPOINT = 'https://qmooz94be6.execute-api.eu-north-1.amazonaws.com/default/funmi-serverless-lambda'
 
 export default {
   name: 'app',
